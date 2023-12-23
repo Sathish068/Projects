@@ -1,4 +1,4 @@
-Hi All,
+Hi,
 
 I have Completed 3 Maven projects, So far and updated in this GitHub Link. 
 1.	Adactin.com – This project explains how to book a room automatically in a  dummy environment using using Java, Selenium, TestNG and Maven.
